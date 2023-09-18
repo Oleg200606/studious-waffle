@@ -1,0 +1,15 @@
+/Users/oleg/Desktop/kalkulyator/bin/Debug/net7.0/kalkulyator
+/Users/oleg/Desktop/kalkulyator/bin/Debug/net7.0/kalkulyator.deps.json
+/Users/oleg/Desktop/kalkulyator/bin/Debug/net7.0/kalkulyator.runtimeconfig.json
+/Users/oleg/Desktop/kalkulyator/bin/Debug/net7.0/kalkulyator.dll
+/Users/oleg/Desktop/kalkulyator/bin/Debug/net7.0/kalkulyator.pdb
+/Users/oleg/Desktop/kalkulyator/obj/Debug/net7.0/kalkulyator.csproj.AssemblyReference.cache
+/Users/oleg/Desktop/kalkulyator/obj/Debug/net7.0/kalkulyator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleg/Desktop/kalkulyator/obj/Debug/net7.0/kalkulyator.AssemblyInfoInputs.cache
+/Users/oleg/Desktop/kalkulyator/obj/Debug/net7.0/kalkulyator.AssemblyInfo.cs
+/Users/oleg/Desktop/kalkulyator/obj/Debug/net7.0/kalkulyator.csproj.CoreCompileInputs.cache
+/Users/oleg/Desktop/kalkulyator/obj/Debug/net7.0/kalkulyator.dll
+/Users/oleg/Desktop/kalkulyator/obj/Debug/net7.0/refint/kalkulyator.dll
+/Users/oleg/Desktop/kalkulyator/obj/Debug/net7.0/kalkulyator.pdb
+/Users/oleg/Desktop/kalkulyator/obj/Debug/net7.0/kalkulyator.genruntimeconfig.cache
+/Users/oleg/Desktop/kalkulyator/obj/Debug/net7.0/ref/kalkulyator.dll
